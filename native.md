@@ -7,6 +7,7 @@ React Native封装原生UI组件、原生模块
                        现在WebStorm支持RN开发，所有运行RN还是要切换到WebStorem、
                        。。。（后续想到再补）                       
  2、正式开始步骤：
+ 
     a、创建java类继承SimpleViewManager
        
     b、创建java类实现ReactPackage
